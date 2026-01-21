@@ -1,0 +1,12 @@
+{
+  "summary": "React 18's Strict Mode intentionally fires effects twice in development to ensure component resilience, leading to requests for clearer documentation and guidance on data fetching.",
+  "type": "documentation",
+  "priority_score": "3 - High visibility and developer confusion regarding core Hook behavior",
+  "suggested_labels": [
+    "react-18",
+    "hooks",
+    "strict-mode",
+    "documentation"
+  ],
+  "potential_impact": "Reduces developer confusion during React 18 upgrades and promotes resilient patterns for side effects and data fetching."
+}

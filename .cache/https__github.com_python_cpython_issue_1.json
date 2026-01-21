@@ -1,0 +1,11 @@
+{
+  "summary": "Update the Misc/NEWS processing logic to support and correctly handle legacy 'bpo-' bug tracker references.",
+  "type": "feature_request",
+  "priority_score": "2 - Improves internal tooling and changelog consistency for legacy references",
+  "suggested_labels": [
+    "tooling",
+    "Misc/NEWS",
+    "enhancement"
+  ],
+  "potential_impact": "Enables proper tracking and linking of legacy Python bug tracker IDs within the project's changelog system."
+}
