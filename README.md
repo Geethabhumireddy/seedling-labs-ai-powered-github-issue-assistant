@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Issue AI Analyzer
 
 An intelligent GitHub issue classifier and analyzer powered by Google's Gemini AI. Automatically triages issues, suggests labels, and provides actionable insights in seconds.
@@ -213,3 +214,8 @@ Contributions welcome! Please ensure:
 ---
 
 Built with ❤️ for developers and maintainers
+=======
+# Issue-Analyzer
+A Python tool for analyzing and prioritizing GitHub issues based on traction, impact, and estimated effort. This tool helps developers and project maintainers identify which issues to focus on first.
+>>>>>>> c531bf3438dcdf7a541206f94e18bf1cd9a8df43
+"# Seedling" 
