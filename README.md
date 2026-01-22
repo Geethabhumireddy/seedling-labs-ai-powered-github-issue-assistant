@@ -1,4 +1,4 @@
-#AI-Powered Github Issue Assistant
+# AI-Powered Github Issue Assistant
 
 ## Overview
 
